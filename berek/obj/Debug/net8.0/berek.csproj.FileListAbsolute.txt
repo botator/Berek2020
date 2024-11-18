@@ -1,0 +1,14 @@
+C:\Users\bastyai.botond\Desktop\berek\berek\bin\Debug\net8.0\berek.exe
+C:\Users\bastyai.botond\Desktop\berek\berek\bin\Debug\net8.0\berek.deps.json
+C:\Users\bastyai.botond\Desktop\berek\berek\bin\Debug\net8.0\berek.runtimeconfig.json
+C:\Users\bastyai.botond\Desktop\berek\berek\bin\Debug\net8.0\berek.dll
+C:\Users\bastyai.botond\Desktop\berek\berek\bin\Debug\net8.0\berek.pdb
+C:\Users\bastyai.botond\Desktop\berek\berek\obj\Debug\net8.0\berek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bastyai.botond\Desktop\berek\berek\obj\Debug\net8.0\berek.AssemblyInfoInputs.cache
+C:\Users\bastyai.botond\Desktop\berek\berek\obj\Debug\net8.0\berek.AssemblyInfo.cs
+C:\Users\bastyai.botond\Desktop\berek\berek\obj\Debug\net8.0\berek.csproj.CoreCompileInputs.cache
+C:\Users\bastyai.botond\Desktop\berek\berek\obj\Debug\net8.0\berek.dll
+C:\Users\bastyai.botond\Desktop\berek\berek\obj\Debug\net8.0\refint\berek.dll
+C:\Users\bastyai.botond\Desktop\berek\berek\obj\Debug\net8.0\berek.pdb
+C:\Users\bastyai.botond\Desktop\berek\berek\obj\Debug\net8.0\berek.genruntimeconfig.cache
+C:\Users\bastyai.botond\Desktop\berek\berek\obj\Debug\net8.0\ref\berek.dll
